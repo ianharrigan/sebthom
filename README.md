@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/sebthom">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebthom&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&langs_count=3&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebthom&hide_border=true&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&hide_border=true&langs_count=3&theme=default" />
 </a>
