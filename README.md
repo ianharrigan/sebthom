@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### &#x1f4c8; My GitHub Stats
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/sebthom">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebthom&show_icons=true&line_height=33&count_private=true&include_all_commits=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&langs_count=4&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebthom&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&langs_count=3&theme=default" />
 </a>
